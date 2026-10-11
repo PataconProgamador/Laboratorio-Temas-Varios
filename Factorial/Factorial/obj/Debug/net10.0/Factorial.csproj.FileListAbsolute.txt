@@ -1,0 +1,15 @@
+C:\Users\luixe\source\repos\Factorial\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\luixe\source\repos\Factorial\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\luixe\source\repos\Factorial\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\luixe\source\repos\Factorial\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\luixe\source\repos\Factorial\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\ref\Factorial.dll
+C:\Users\luixe\source\repos\Factorial\Factorial\obj\Debug\net10.0\Factorial.csproj.Up2Date

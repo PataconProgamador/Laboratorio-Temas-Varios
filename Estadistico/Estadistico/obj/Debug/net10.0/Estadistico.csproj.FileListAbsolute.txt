@@ -1,0 +1,15 @@
+C:\Users\luixe\source\repos\Estadistico\Estadistico\bin\Debug\net10.0\Estadistico.exe
+C:\Users\luixe\source\repos\Estadistico\Estadistico\bin\Debug\net10.0\Estadistico.deps.json
+C:\Users\luixe\source\repos\Estadistico\Estadistico\bin\Debug\net10.0\Estadistico.runtimeconfig.json
+C:\Users\luixe\source\repos\Estadistico\Estadistico\bin\Debug\net10.0\Estadistico.dll
+C:\Users\luixe\source\repos\Estadistico\Estadistico\bin\Debug\net10.0\Estadistico.pdb
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.dll
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\refint\Estadistico.dll
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.pdb
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadistico.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\ref\Estadistico.dll
+C:\Users\luixe\source\repos\Estadistico\Estadistico\obj\Debug\net10.0\Estadist.D378D3F4.Up2Date
